@@ -1,4 +1,4 @@
-## MachineLearning_Assignment: Coursera / Johns Hopkins -- Data Science
+## Machine Learning Project: Johns Hopkins / Coursera -- Data Science Certificate
 ==========================
 Zecca Lehn -- August 20, 2014
 
