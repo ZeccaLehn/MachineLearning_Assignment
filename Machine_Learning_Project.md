@@ -1,4 +1,4 @@
-# Machine Learning Project: \n Johns Hopkins Data Science Certificate Track  
+# Machine Learning Project: Johns Hopkins Data Science Certificate Track  
 Zecca Lehn <https://github.com/ZeccaLehn>  
 08/19/2014  
 
