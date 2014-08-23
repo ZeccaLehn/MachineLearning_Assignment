@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning Project: \n 
+title: 'Machine Learning Project:  
 Johns Hopkins Data Science Certificate Track  '
 author: "Zecca Lehn <https://github.com/ZeccaLehn>"
 date: "08/19/2014"
